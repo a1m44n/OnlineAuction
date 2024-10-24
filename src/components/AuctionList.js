@@ -5,7 +5,7 @@ const AuctionList = () => {
     { id: 1, title: 'Antique Vase', price: 100 },
     { id: 2, title: 'Vintage Car Model', price: 250 },
     { id: 3, title: 'Limited Edition Painting', price: 500 },
-    { id: 4, title: 'Skibidiak', price: 600 }
+    { id: 4, title: 'Skibidiak', price: 600 },
     { id: 5, title: 'Bread', price: 1000}
   ];
 
